@@ -8,7 +8,7 @@ public class function {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String userInput = sc.next();
-        printMyName(userInput);
+        String userInput_Var = sc.next();
+        printMyName(userInput_Var);
     }
 }
